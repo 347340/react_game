@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.square {
+  width: 30px;
+  height: 30px;
+}
+
+.status {
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.game-board {
+  margin-left:50px;
+}
+
+.game-info {
+  justify-content: space-between;
+}
